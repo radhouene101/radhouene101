@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @radhouene101 Software engineering student at ESPRIT 
-- 👀 I’m interested in web and video games developpement, mobile developpement
-- 🌱 I’m currently learning and hardening my skills with web and problem soulving
+- 👀 I’m interested in web and the cloud
+- 🌱 I’m currently learning and hardening my skills in aws and with the web , problem soulving
 -    this is my leetcode account  https://leetcode.com/RadhoueneBerrzig/
 - 📫 How to reach me radhouene.berrzig1@gmail.com or you can add me on linkedIn:[https://www.linkedin.com/in/berrzig-radhouene-979b50216/](https://www.linkedin.com/in/radhouene-berrzig-979b50216/)https://www.linkedin.com/in/radhouene-berrzig-979b50216/
