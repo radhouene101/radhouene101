@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @radhouene101 Software engineering student at ESPRIT 
+- 👋 Hi, I’m @radhouene101 Software engineering student at Hochschule Schmalkalden && ESPRIT 
 - 👀 I’m interested in web and the cloud
 - 🌱 I’m currently learning and hardening my skills in aws and K8S 
 -    I mainly code in java (spring)
